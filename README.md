@@ -36,7 +36,7 @@ This course is organised by Phil Blunsom and delivered in partnership with the D
 Public Lectures are held in Lecture Theatre 1 of the Maths Institute, on Tuesdays and Thursdays (except week 8), 16:00-18:00 (Hilary Term Weeks 1,3-8).
 
 # Lecture Materials
-## 1. Lecture 1a - Introduction [Phil Blunsom]
+## 1. Lecture 1a - Introduction [Phil Blunsom][Completed✅]
 This lecture introduces the course and motivates why it is interesting to study language processing using Deep Learning techniques.
 
 [[slides]](Lecture%201a%20-%20Introduction.pdf)
