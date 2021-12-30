@@ -42,7 +42,7 @@ This lecture introduces the course and motivates why it is interesting to study 
 [[slides]](Lecture%201a%20-%20Introduction.pdf)
 [[video]](http://media.podcasts.ox.ac.uk/comlab/deep_learning_NLP/2017-01_deep_NLP_1a_intro.mp4)
 
-## 2. Lecture 1b - Deep Neural Networks Are Our Friends [Wang Ling]
+## 2. Lecture 1b - Deep Neural Networks Are Our Friends [Wang Ling][Completed✅]
 This lecture revises basic machine learning concepts that students should know before embarking on this course.
 
 [[slides]](Lecture%201b%20-%20Deep%20Neural%20Networks%20Are%20Our%20Friends.pdf)
